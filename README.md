@@ -58,7 +58,7 @@ A full-stack web application for DAB Enterprise LTD to manage employees, stock p
 
 ### 1. Clone and Navigate
 ```bash
-cd FirstName_LastName_National_Practical_Exam_2026
+cd 
 ```
 
 ### 2. Backend Setup
